@@ -1,5 +1,8 @@
 # MNIST Neural Network from Scratch
 
+## Category
+Machine Learning
+
 ## Overview
 This project is a simple neural network built from scratch using only NumPy.  
 The goal is to classify handwritten digits from the MNIST dataset without using deep learning frameworks like PyTorch or TensorFlow.
